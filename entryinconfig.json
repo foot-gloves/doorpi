@@ -1,0 +1,10 @@
+  "accessories": [
+        {
+            "accessory": "Script2",
+            "name": "Front Door",
+            "on": "~/frontdoor.sh",
+            "off": "~/frontdoor.sh",
+	    "state": "~/state.sh",
+	    "on_value": "true"
+        }
+    ]
